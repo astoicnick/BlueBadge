@@ -1,0 +1,2 @@
+C:\Users\Nick\source\repos\BlueBadge\Wiser.MVC\obj\Debug\Wiser.MVC.csprojAssemblyReference.cache
+C:\Users\Nick\source\repos\BlueBadge\Wiser.MVC\obj\Debug\Wiser.MVC.csproj.CoreCompileInputs.cache

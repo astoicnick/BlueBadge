@@ -1,0 +1,16 @@
+C:\Users\Nick\source\repos\BlueBadge\Wiser.Services\bin\Debug\Wiser.Services.dll.config
+C:\Users\Nick\source\repos\BlueBadge\Wiser.Services\bin\Debug\Wiser.Services.dll
+C:\Users\Nick\source\repos\BlueBadge\Wiser.Services\bin\Debug\Wiser.Services.pdb
+C:\Users\Nick\source\repos\BlueBadge\Wiser.Services\bin\Debug\EntityFramework.dll
+C:\Users\Nick\source\repos\BlueBadge\Wiser.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nick\source\repos\BlueBadge\Wiser.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Nick\source\repos\BlueBadge\Wiser.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Nick\source\repos\BlueBadge\Wiser.Services\bin\Debug\EntityFramework.xml
+C:\Users\Nick\source\repos\BlueBadge\Wiser.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nick\source\repos\BlueBadge\Wiser.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Nick\source\repos\BlueBadge\Wiser.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Nick\source\repos\BlueBadge\Wiser.Services\obj\Debug\Wiser.Services.csprojAssemblyReference.cache
+C:\Users\Nick\source\repos\BlueBadge\Wiser.Services\obj\Debug\Wiser.Services.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\BlueBadge\Wiser.Services\obj\Debug\Wiser.Services.csproj.CopyComplete
+C:\Users\Nick\source\repos\BlueBadge\Wiser.Services\obj\Debug\Wiser.Services.dll
+C:\Users\Nick\source\repos\BlueBadge\Wiser.Services\obj\Debug\Wiser.Services.pdb
